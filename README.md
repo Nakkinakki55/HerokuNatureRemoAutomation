@@ -24,3 +24,32 @@ cd HerokuNatureRemoAutomation
 デプロイする手順については、以下の記事を参考にするとスムーズに進められます。
 <br>
 [冬の朝をもっと快適に！Heroku×Nature Remoで実現するエアコン自動化プロジェクト #Node.js - Qiita](https://qiita.com/nishifeoda/items/25b62a3004774ed30278)
+
+---
+
+# Heroku × Nature Remo - Air Conditioner Automation Project
+
+This project aims to automate air conditioner control by leveraging Heroku and Heroku Scheduler on Amazon Web Services, integrated with Nature Remo. The system is designed to create a comfortable environment, reducing the stress of getting out of bed on cold winter mornings.
+
+## Technologies Used
+| Technology | Details |
+|------|------|
+| **Development Language** | Node.js v22.14.0|
+| **Server Environment** | Heroku , Heroku Container Apps |
+| **Scheduled Execution** | Heroku Logic Apps |
+| **vice Control** | Nature Remo API |
+
+---
+
+## Installation
+### 1. Clone the Repository
+```txt
+git clone https://github.com/Nakkinakki55/HerokuNatureRemoAutomation.git
+cd HerokuNatureRemoAutomation
+```
+
+## Deployment
+For smooth deployment, you can refer to the following article:
+<br>
+[Make Winter Mornings More Comfortable! Air Conditioner Automation Project with Heroku × Nature Remo #Node.js - Qiita](https://qiita.com/nishifeoda/items/25b62a3004774ed30278)
+
